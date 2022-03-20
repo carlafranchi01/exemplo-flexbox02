@@ -8,6 +8,7 @@ header {
     background: deeppink;
     height: 100px;
     text-align: center;
+    color: white;
 }
 .container {
     display: flex;
